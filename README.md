@@ -7,3 +7,5 @@ In our project, we tested Sneaks Up in these categories:
 2. Security Testing
 3. Usability Testing
 4. Coverage Analysis
+
+We used technologies like Selenium and Mozilla Observatory.
