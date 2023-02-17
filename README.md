@@ -1,4 +1,4 @@
-# seleniumSneaksUp
+# SneaksUp Testing Project
 
 In this project we tested the User Interface of Sneaks Up website for different test cases.
 
